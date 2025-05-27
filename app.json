@@ -27,7 +27,7 @@
     "AUTO_READ":
     {
       "description":"Your contact  will be read messages automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"no",
+      "value":"yes",
       "required":false   
       },
   "AUTO_REACT":
@@ -110,7 +110,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": ""
+    "value": "no"
   },
   "STARTING_BOT_MESSAGE":
   {
